@@ -40,19 +40,19 @@
     "url": "https://search.theselfhosting.art/",
     "icon": "https://icons.duckduckgo.com/ip3/search.theselfhosting.art.ico",
     "slug": "search-the-self-hosting-art",
-    "status": "down",
-    "uptime": "97.75%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "97.75%",
-    "time": 580,
-    "timeDay": 580,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "status": "up",
+    "uptime": "89.05%",
+    "uptimeDay": "89.05%",
+    "uptimeWeek": "89.05%",
+    "uptimeMonth": "89.05%",
+    "uptimeYear": "89.05%",
+    "time": 567,
+    "timeDay": 567,
+    "timeWeek": 567,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2024-02-24": 7
+      "2024-02-24": 37
     }
   },
   {
