@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.theselfhosting.art.ico",
     "slug": "search-the-self-hosting-art",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.37%",
     "uptimeDay": "98.71%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.34%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 571,
     "timeDay": 458,
     "timeWeek": 571,
@@ -116,17 +116,19 @@
     "url": "https://chat.theselfhosting.art/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.theselfhosting.art.ico",
     "slug": "chat-the-self-hosting-art",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 428,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
-    "dailyMinutesDown": {}
+    "time": 467,
+    "timeDay": 420,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
+    "dailyMinutesDown": {
+      "2024-02-27": 0
+    }
   }
 ]
