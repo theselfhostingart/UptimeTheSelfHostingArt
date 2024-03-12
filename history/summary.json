@@ -4,9 +4,9 @@
     "url": "https://theselfhosting.art/",
     "icon": "https://icons.duckduckgo.com/ip3/theselfhosting.art.ico",
     "slug": "the-self-hosting-art-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 412,
     "timeMonth": 690,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   },
   {
     "name": "Piped TheSelfHostingArt",
@@ -125,11 +127,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.theselfhosting.art.ico",
     "slug": "chat-the-self-hosting-art",
     "status": "up",
-    "uptime": "26.13%",
+    "uptime": "26.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.09%",
-    "uptimeMonth": "26.13%",
-    "uptimeYear": "26.13%",
+    "uptimeWeek": "17.79%",
+    "uptimeMonth": "26.66%",
+    "uptimeYear": "26.66%",
     "time": 527,
     "timeDay": 592,
     "timeWeek": 544,
